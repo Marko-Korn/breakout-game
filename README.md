@@ -1,5 +1,5 @@
 # breakout-game
-This is a simple breakout game made in Python using the Turtle library.
+This is a simple breakout game made in Python using the Turtle library. The main point of this project was to get deeper understanding of OOP(Object-oriented programming).
 
 # General layout
 Here is the general layout of the app. This includes a total block count, destroyed blocks count and amout of lives. 
